@@ -83,11 +83,11 @@ body{
 .col img{
     width: 40px;
     margin-right: 10px;
-    padding:5%;
+    margin:5%;
 }
 .humidity, .wind{
     font-size: 1rem;
-    margin-top: -6px;
+    margin-top: 4px;
 }
 .weather{
     display: none;
